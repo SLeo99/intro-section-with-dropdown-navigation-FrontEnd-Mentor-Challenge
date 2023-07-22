@@ -316,6 +316,9 @@ a:visited {
     margin: 0;
     justify-content: center;
   }
+  .hero__btn {
+    margin-right: auto;
+  }
 }
 * {
   margin: 0;
